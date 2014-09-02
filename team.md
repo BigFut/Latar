@@ -8,6 +8,6 @@ Alexsey Moldovanov () - designer
 
 Alexander Natarov (AlNat) - CTO
 
-Andrey Frolov () - programmer
+Andrey Frolov (BigFut) - programmer
 
 Elizaveta Shulga () - designer
